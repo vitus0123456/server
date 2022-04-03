@@ -216,3 +216,6 @@ memcheck.out.*
 
 # Auto-generated files
 /src/common/version.cpp
+
+/settings/*.lua
+/settings/*.txt
